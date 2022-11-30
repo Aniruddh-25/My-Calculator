@@ -8,8 +8,3 @@
 # <p align="left"> <b>[check it out](https://goo.gl/dvrvUY) </b></p>
 
 
-# License
-
-MIT License
-
-Copyright (c) Raad Altaie
